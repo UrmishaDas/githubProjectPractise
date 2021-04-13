@@ -6,7 +6,7 @@ import ClassComponent from './components/ClassComponent'
 function App() {
   return (
     <div className="App">
-       <h2>this is app.js</h2>
+       <h3>this is app.js</h3>
        <ClassComponent />
     </div>
   );
